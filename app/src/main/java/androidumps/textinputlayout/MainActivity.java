@@ -12,7 +12,7 @@ import android.widget.Toast;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-//ruban
+
 public class MainActivity extends AppCompatActivity {
 
     //TIL --> TextInputLayout
